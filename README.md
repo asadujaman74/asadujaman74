@@ -5,8 +5,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thetoothlessguy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thetoothlessguy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rainbow_asad) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asadujaman74&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📈 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asadujaman74&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadujaman74&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
