@@ -1,5 +1,5 @@
 # About Me:
- About Me: I'm Md. Asadu Jaman<br>I’m a Full-stack web developer. I have a passion for learning and sharing my knowledge with others. Over the last three years, I have explored cyber security, computer networks, and Blockchain. Right now, I am working on Java. Skills: HTML / CSS/JavaScript/ReactJs/Java/SQL/MongoDB/<br><br>🔭 I’m currently working on ReactJS ⚛️ <br>🌱 I’m currently learning DSA in JAVA<br>🤔 I’m looking for help with small project based on ReactJs ⚛️<br>⚡ Fun fact: I love to play online games
+ About Me: I'm Md. Asadu Jaman<br>I’m a Full-stack web developer. I have a passion for learning and sharing my knowledge with others. Over the last three years, I have explored cyber security, computer networks, and Blockchain. Right now, I am working on Java. Skills: HTML / CSS/JavaScript/ReactJs/Python/SQL/MongoDB/<br><br>🔭 I’m currently working on ReactJS ⚛️ <br>🌱 I’m currently learning DSA in Python<br>🤔 I’m looking for help with small project based on ReactJs ⚛️<br>⚡ Fun fact: I love to play online games
 
 
 ## 🌐 Socials:
